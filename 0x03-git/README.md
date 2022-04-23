@@ -1,1 +1,1 @@
-coding is a hoby
+coding is my a hobby ,i'm currently learning about git
